@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40301ucmf_0_0016.png"; bbox 0 0 2429 3448; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 298 1213 676">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 194 298 1213 676">
+     <span class='ocr_line' id='line_1_1' title="bbox 194 298 1213 676; baseline -0.003 -82"><span class='ocrx_word' id='word_1_1' title='bbox 194 298 795 676; x_wconf 73' lang='lat' dir='ltr'>Georgi,</span> <span class='ocrx_word' id='word_1_2' title='bbox 863 303 1213 595; x_wconf 79' lang='lat' dir='ltr'>Chri</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 37 1382 1184 1589">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 37 1382 1184 1589">
+     <span class='ocr_line' id='line_1_2' title="bbox 37 1382 1184 1589; baseline 0.077 -62"><span class='ocrx_word' id='word_1_3' title='bbox 37 1450 39 1452; x_wconf 23' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 348 1384 887 1589; x_wconf 68' lang='lat' dir='ltr'>OCassUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 952 1382 1184 1578; x_wconf 63' lang='grc' dir='ltr'>ΟΥ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 197 1775 1197 2165">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 197 1734 1197 2165">
+     <span class='ocr_line' id='line_1_3' title="bbox 197 1775 1197 2165; baseline 0.06 -104"><span class='ocrx_word' id='word_1_6' title='bbox 197 1775 1197 2165; x_wconf 79' lang='lat' dir='ltr'>philosophici</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1220 3448">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1220 3448">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1220 3448; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1220 3448; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 143 2771 1156 3141">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 143 2771 1156 3141">
+     <span class='ocr_line' id='line_1_5' title="bbox 143 2771 1156 3141; baseline 0.082 -103"><span class='ocrx_word' id='word_1_8' title='bbox 143 2880 145 2886; x_wconf 16' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_9' title='bbox 203 2771 1156 3141; x_wconf 71' lang='lat' dir='ltr'>wittenberg‚</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
